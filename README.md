@@ -40,4 +40,4 @@ Information should not be duplicated on site.
 
 **Actual result**
 The info about uploading additional pages appears twice on page.
-Additional info: on mockup the info under the button is not shown,=.
+Additional info: on mockup the info under the button is not shown.
